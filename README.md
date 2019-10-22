@@ -1,5 +1,10 @@
-# NinRika
+# NinRika #
 
-##GA  : berisi coding untuk GA
-##VNS : berisi coding untuk VNS
-##GA-VNS  : berisi coding untuk hybrid GA VNS
+## Project ini berisi : ##
+
+* GA
+* GA-VNS
+* GA Adaptive
+* GA-VNS Adaptive
+* GA SubPopulation
+* VNS
