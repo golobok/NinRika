@@ -1,6 +1,6 @@
 # NinRika #
 
-## Project ini berisi : ##
+## Daftar isi : ##
 
 * GA
 * GA-VNS
